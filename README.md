@@ -2,7 +2,7 @@
 Autosegmentation of Low Grade Glioma using FLAIR MRI Sequences<br />
 
 # Dataset <br />
-  - BRATS
+  - BRATS(Brain Tumor Segmentation Dataset 2020)
 # Models Used - <br />
   1. Baseline UNET <br />
   2. UNET with Squeeze and Excitation <br />
