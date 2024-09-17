@@ -1,9 +1,9 @@
 # LGG Segmentation on FLAIR MRI Sequences <br />
 Autosegmentation of Low Grade Glioma using FLAIR MRI Sequences<br />
 
-#Dataset <br />
+# Dataset <br />
   - BRATS
-#Models Used - <br />
+# Models Used - <br />
   1. Baseline UNET <br />
   2. UNET with Squeeze and Excitation <br />
   3. NESTED UNET <br />
