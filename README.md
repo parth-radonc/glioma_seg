@@ -1,4 +1,3 @@
-# glioma_seg
 # LGG Segmentation on FLAIR MRI Sequences
 Autosegmentation of Low Grade Glioma using FLAIR MRI Sequences
 
@@ -23,4 +22,4 @@ Loss Fn - BCEDICE LOSS at Multiple Output Layers/scales
 # Results
 Dice Score = 0.92
 
-![ Alt text(https://github.com/parth-radonc/glioma_seg/blob/main/Results/res.jpg) 
+![ Alt text (https://github.com/parth-radonc/glioma_seg/blob/main/Results/res.jpg) 
